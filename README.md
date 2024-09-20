@@ -3,3 +3,4 @@ Yale University, School of Medicine, Department of Genetics, Yale Center for Gen
 https://campuspress.yale.edu/shrikantpawar/
 
 GSEA.Rd: Single cell data read, kegg gene set enrichment analysis, dotplot, ridgeplot, line plot, and GSEA plot, heat maps.
+selected function(ggplot, na.omit, gseKEGG, cnetplot, ridgeplot, gseaplot, dotplot, pheatmap)
